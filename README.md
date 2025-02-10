@@ -8,6 +8,7 @@ Installation
 Clone the repository:
 
 git clone https://github.com/mahesh1723/ShoppingCart.git
+
 cd shopping-cart-assignment
 
 Install dependencies: npm install
